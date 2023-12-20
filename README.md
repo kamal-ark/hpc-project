@@ -19,3 +19,16 @@ Later, run the main.py to perform the wandb sweeps. If wandb asks for any login 
 #
 # Links/resources
 #
+
+All model tarballs from the final checkpoint for each Wand sweep can be found in the link below
+https://drive.google.com/drive/folders/1zEqhhyuhpojxKNrvMdi4twvbGR9Ql93O?usp=drive_link
+
+The link to the project presentation can be found here
+https://docs.google.com/presentation/d/1C45F1IpgqUI2G3GSXJNHZVCEamXbE1KB_sxTS9oXdpQ/edit?usp=sharing
+
+All Weights and Biases sweeps are to be found below (publicly accessible)
+https://wandb.ai/impossibile/hpc-proj/sweeps
+The link below has the sweep for the reduced precision bfloat16 format
+https://wandb.ai/impossibile/hpc-proj/sweeps/x5cp0llc
+The link below has the sweep for the float16 format runs
+https://wandb.ai/impossibile/hpc-proj/sweeps/s9n31tfj
